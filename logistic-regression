@@ -1,0 +1,7 @@
+The Logistic Regression model achieved
+approximately 70% accuracy on the loan
+prediction dataset.
+
+The performance is acceptable because
+the dataset contains categorical features
+and real-world uncertainties.
